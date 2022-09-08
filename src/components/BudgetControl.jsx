@@ -34,7 +34,7 @@ function BudgetControl({budget, setBudget, expenses, setExpenses, setValidBudget
   const handleResetApp = () => {
     const resultado = confirm('Do you want to reset the app?')
     if(resultado) {
-        console.log('Yes')
+        console.log('Si')
         setExpenses([])
         setBudget(0)
         setValidBudget(false)
