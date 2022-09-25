@@ -1,4 +1,4 @@
-# Welcome To "WEATHER APP" 
+# Welcome To "BUDGET APP" 
 This app will help you out keeping track of your expenses with a limited budget.
 
 ## How does it work?
