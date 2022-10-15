@@ -15,4 +15,7 @@ This app was coded in `Javascript` and developed with:
 - [Circular Progressbar](https://www.kevinqi.com/react-circular-progressbar/)
 - [Swipeable List](https://github.com/marekrozmus/react-swipeable-list)
 
+### Deploy
+Vercel: https://budget-app-sanavalos.vercel.app
+
 _made by sanavalos_
